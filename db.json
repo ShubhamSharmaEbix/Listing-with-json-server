@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "2nd-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "3rd-server",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "4th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "5th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "6th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "7th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "8th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "9th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "10th-server",
+      "author": "typicode"
+    },
+    {
+      "id": 11,
+      "author": "typicode",
+      "title": "11th-server"
+    },
+    {
+      "id": 12,
+      "author": "typicode",
+      "title": "12th-server"
+    },
+    {
+      "id": 13,
+      "author": "typicode",
+      "title": "13th-server"
+    },
+    {
+      "id": 14,
+      "author": "typicode",
+      "title": "14th-server"
+    },
+    {
+      "id": 15,
+      "author": "typicode",
+      "title": "15th-server"
+    },
+    {
+      "id": 16,
+      "author": "typicode",
+      "title": "16th-server"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
